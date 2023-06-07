@@ -1,0 +1,4 @@
+[[redirects]]
+  from="/:country/:lng/db/*"
+  to="https://db.netlify-se-test.com/:splat"
+  status=200
